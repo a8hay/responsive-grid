@@ -1,0 +1,23 @@
+main {
+  padding-top: 120px;
+}
+main .row {
+  margin-bottom: 20px;
+}
+.box {
+  height: 200px;
+  text-align: center;
+  padding-top: 30px;
+}
+.orange {
+  background-color: orange;
+}
+.yellow {
+  background-color: yellow;
+}
+.cyan {
+  background-color: cyan;
+}
+.pink {
+  background-color: pink;
+}
